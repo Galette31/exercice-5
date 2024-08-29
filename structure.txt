@@ -1,0 +1,10 @@
+.
+|-- README.md
+|-- app
+|   |-- controller
+|   |-- entity
+|   `-- repository
+|-- package.json
+`-- structure.txt
+
+4 directories, 3 files
